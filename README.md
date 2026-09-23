@@ -40,6 +40,8 @@
 ## 💻 Tecnologias utilizadas
 
 <!-- * [Kotlin](https://kotlinlang.org/) -->
+* [DIO Agent](https://github.com/MarinaGV93/dio-agent)
+* [Google Antigravity](https://antigravity.google)
 
 <br>
 
