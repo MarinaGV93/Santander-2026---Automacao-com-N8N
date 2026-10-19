@@ -60,7 +60,7 @@ Antes de começar, você precisa ter instalado em sua máquina um editor para tr
 
 | Aulas | Desafios | Projetos |
 | :----: | :----: | :----: |
-| [Python](https://github.com/MarinaGV93/Santander-2026---Automacao-com-N8N/tree/main/Python) |  | 
+| [Python](https://github.com/MarinaGV93/Santander-2026---Automacao-com-N8N/tree/main/Python) |  | [Treinando uma IA de Aprendizagem - Explore o Poder do NotebookLM](https://github.com/MarinaGV93/Santander-2026---Automacao-com-N8N/tree/main/Projetos/Treinando%20uma%20IA%20de%20Aprendizagem%20-%20Explore%20o%20Poder%20do%20NotebookLM)
 |  |  |  |
 |  | []() |
 |  | []() |
