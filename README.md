@@ -60,7 +60,7 @@ Antes de começar, você precisa ter instalado em sua máquina um editor para tr
 
 | Aulas | Desafios | Projetos |
 | :----: | :----: | :----: |
-|  |  | 
+| [Python](https://github.com/MarinaGV93/Santander-2026---Automacao-com-N8N/tree/main/Python) |  | 
 |  |  |  |
 |  | []() |
 |  | []() |
